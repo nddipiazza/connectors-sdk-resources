@@ -36,7 +36,7 @@ Build the plugin zip under `security-filtering-connector` directory:
 
 ```bash
 cd java-sdk/connectors/security-filtering-connector
-./gradlew clean build :assemblePlugin
+../gradlew clean build :assemblePlugin
 ```
 
 This produces one zip file, named `rsecurity-filtering-connector.zip`, located in the `build/libs` directory.
