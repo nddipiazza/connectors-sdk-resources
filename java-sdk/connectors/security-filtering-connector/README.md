@@ -22,7 +22,7 @@ This artifact is now ready to be uploaded directly to Fusion as a connector plug
 **Important**
 
 
-As a first step, change the _fusionHome_ property in the https://github.com/lucidworks/connectors-sdk-resources/blob/master/java-sdk/connectors/gradle.properties[`gradle.properties` file^].
+As a first step, change the _fusionHome_ property in the [gradle.properties file](../../java-sdk/connectors/gradle.properties).
 
 The _fusionHome_ property is the full path of your local Fusion installation. The path should include Fusion's version.
 
