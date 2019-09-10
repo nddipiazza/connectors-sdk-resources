@@ -39,7 +39,7 @@ cd java-sdk/connectors/security-filtering-connector
 ../gradlew clean build :assemblePlugin
 ```
 
-This produces one zip file, named `rsecurity-filtering-connector.zip`, located in the `build/libs` directory.
+This produces one zip file, named `security-filtering-connector.zip`, located in the `build/libs` directory.
 
 At this point, the generated zip could be uploaded directly to Fusion, but follow the steps below to run as a remote plugin.
 
