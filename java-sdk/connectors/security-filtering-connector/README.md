@@ -35,6 +35,7 @@ The _fusionHome_ is needed to import the code to an IDE.
 Build the plugin zip under `security-filtering-connector` directory:
 
 ```bash
+cd java-sdk/connectors/security-filtering-connector
 ./gradlew clean build :assemblePlugin
 ```
 
